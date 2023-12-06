@@ -1,0 +1,19 @@
+body{
+    background-color: #1B2866 !important;
+}
+h1{
+    font-size: 13rem !important;
+    color: #D1D3E0 !important;
+    text-align: center;
+    margin-top: 5rem !important;
+}
+h2{
+    font-size: 1.2rem !important;
+    color: aliceblue !important;
+    text-align: center;
+    margin-top: 8rem;
+}
+.boton{
+    text-align: center;
+    margin-top: 3rem;
+}

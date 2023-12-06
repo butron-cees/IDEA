@@ -1,0 +1,84 @@
+h2{
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 3rem;
+    letter-spacing: 1rem;
+    margin-top: 3rem;
+
+}
+
+.p1{
+    font-size: 1rem;
+    word-spacing: 0.5rem;
+}
+.p2{
+    font-size: 1rem;
+    word-spacing: 0.5rem;
+    margin-bottom: 3rem;
+}
+
+.navbar-brand{
+    font-size: 1.2rem;
+    color: black;
+}
+
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black
+}
+.navbar navbar-expand-lg fixed-top{
+    background-color: #1B2866;
+}
+
+.Logo{
+    width: 65px;
+    height: 45px;
+}
+
+.inicio{
+    --opacidad-negro: 0.3;
+    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../img/inicio.webp");
+    background-position: center;
+    background-size: cover;
+    height: 50rem;
+}
+
+.gorras{
+    .card{
+        width: 18rem;
+        background-color: #5C6388;
+
+        .card-title{
+            font-size: 1.5rem;
+            color: rgb(255, 255, 255);
+        }
+
+    }
+
+    .card-text{
+        font-size: 0.9rem;
+        color: rgb(255, 255, 255);
+    }
+}
+
+.mochilas{
+    .card{
+        width: 18rem;
+        background-color: #5C6388;
+
+        .card-title{
+            font-size: 1.5rem;
+            color: rgb(255, 255, 255);
+        }
+
+    }
+
+    .card-text{
+        font-size: 0.9rem;
+        color: rgb(255, 255, 255);
+    }
+}
+
+
+
