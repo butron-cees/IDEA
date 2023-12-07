@@ -6,7 +6,6 @@ h2{
     margin-top: 3rem;
 
 }
-
 .p1{
     font-size: 1rem;
     word-spacing: 0.5rem;
@@ -16,7 +15,6 @@ h2{
     word-spacing: 0.5rem;
     margin-bottom: 3rem;
 }
-
 .navbar-brand{
     font-size: 1.2rem;
     color: black;
@@ -30,12 +28,10 @@ h2{
 .navbar navbar-expand-lg fixed-top{
     background-color: #1B2866;
 }
-
 .Logo{
     width: 65px;
     height: 45px;
 }
-
 .inicio{
     --opacidad-negro: 0.3;
     background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../img/inicio.webp");
@@ -43,7 +39,6 @@ h2{
     background-size: cover;
     height: 50rem;
 }
-
 .gorras{
     .card{
         width: 18rem;
@@ -61,7 +56,6 @@ h2{
         color: rgb(255, 255, 255);
     }
 }
-
 .mochilas{
     .card{
         width: 18rem;
@@ -73,12 +67,8 @@ h2{
         }
 
     }
-
     .card-text{
         font-size: 0.9rem;
         color: rgb(255, 255, 255);
     }
 }
-
-
-
